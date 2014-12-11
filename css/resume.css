@@ -1,0 +1,106 @@
+/* Your Website Styles */
+h1 {
+	font-family: 'Playfair Display SC', serif;
+	color: white;
+	float: right;
+	font-size: 3.5em;
+
+}
+
+body {
+	background: #222222;
+	
+}
+
+
+
+div {
+	display: block;
+}
+
+
+#wrapper {
+	background: #222222;
+	width: 990px;
+	margin: 15px auto 15px auto;
+	border: solid 2px #888888;
+}
+
+.container {
+	background: #414042;
+	box-shadow: #FE9A2E;
+}
+
+.head img {
+	float: left;
+	height: 400px;
+	width: 450px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
+
+
+h2, h4 {
+	color: white;
+	margin: 10px 0 0px 15px;
+	font-size: 1.5em;
+	display: block;
+}
+p,  h3, h5 {
+	color: white;
+	margin: 0 0 4px 15px;
+	font-size: 1em;
+}
+
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
+	margin: 0 20px 10px 0;
+	float: left;
+	display: block;
+}
+
+.grid_5 {
+	width: 400px;
+}
+
+.grid_8 {
+	width: 660px;
+}
+
+.grid_12 {
+	width: 1000px;
+}
+
+.about {
+	padding: 0 0 50px 0;
+	background: #B40431;
+	border-radius: 10px;
+}
+
+.skillset {
+	padding: 0 0 50px 0;
+	background: #DBA901;
+	border-radius: 10px;
+}
+
+.education {
+	padding: 0 0 50px 0;
+	background: #088A4B;
+	border-radius: 10px;
+}
+
+.titles {
+	padding: 0 0 50px 0;
+	background: #222222;
+	border-radius: 10px;
+}
+.likes {
+	padding: 0 0 50px 0;
+	background: #222222;
+	border-radius: 10px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
