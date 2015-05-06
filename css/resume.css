@@ -69,6 +69,7 @@ p,  h3, h5 {
 
 .grid_12 {
 	width: 1000px;
+		background: #2CD9D5;
 }
 
 .about {
@@ -104,3 +105,9 @@ p,  h3, h5 {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+
+
+
+
+
