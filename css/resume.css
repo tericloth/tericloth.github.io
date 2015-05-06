@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-	background: #222222;
+	background: url("../img/square_bg.png");
 	
 }
 
@@ -27,7 +27,7 @@ div {
 }
 
 .container {
-	background: #414042;
+	background: #2CD9D5;
 	box-shadow: #FE9A2E;
 }
 
@@ -73,19 +73,19 @@ p,  h3, h5 {
 
 .about {
 	padding: 0 0 50px 0;
-	background: #B40431;
+	background: #2CD9D5;
 	border-radius: 10px;
 }
 
 .skillset {
 	padding: 0 0 50px 0;
-	background: #DBA901;
+	background: #2CD9D5;
 	border-radius: 10px;
 }
 
 .education {
 	padding: 0 0 50px 0;
-	background: #088A4B;
+	background: #2CD9D5;
 	border-radius: 10px;
 }
 

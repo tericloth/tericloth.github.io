@@ -3,7 +3,7 @@
 ********************* */
 
 body {
-	background-image: url("../img/swirl_pattern.png");
+background: url("../img/square_bg.png");
   	font-family: 'Playfair Display', sans-serif;
     color: #DAA520;
   	
@@ -194,7 +194,7 @@ COLORS
 /* Show Grid */
 .showgrid {
 
-	background: url("") no-repeat;
+background: url("../img/square_bg.png");
 }
 
 */
