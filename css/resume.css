@@ -56,7 +56,7 @@ p,  h3, h5 {
 .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
 	margin: 0 20px 10px 0;
 	float: left;
-	display: block;
+	display: inline;
 }
 
 .grid_5 {
@@ -80,13 +80,13 @@ p,  h3, h5 {
 
 .skillset {
 	padding: 0 0 50px 0;
-	background: #2CD9D5;
+	background: #222222;
 	border-radius: 10px;
 }
 
 .education {
 	padding: 0 0 50px 0;
-	background: #2CD9D5;
+	background: #222222;
 	border-radius: 10px;
 }
 
