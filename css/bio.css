@@ -1,7 +1,7 @@
 /* Your Website Styles */
 h1 {
   font-family: 'Playfair Display SC', serif;
-  color: white;
+
   float: right;
   font-size: 3.5em;
 
@@ -14,9 +14,7 @@ body {
 
 
 
-div {
-  display: block;
-}
+
 
 
 #wrapper {
@@ -31,10 +29,9 @@ div {
   box-shadow: #FE9A2E;
 }
 
-.head img {
+.head {
   float: left;
-  height: 400px;
-  width: 450px;
+ color: #2CD9D5;
   border-radius: 10px 10px 10px 10px;
 }
 
