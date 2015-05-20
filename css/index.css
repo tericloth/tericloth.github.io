@@ -1,4 +1,6 @@
 /* Your Website Styles */
+
+
 h1 {
   font-family: 'Playfair Display SC', serif;
   color: white;
@@ -14,11 +16,6 @@ body {
 
 
 
-div {
-  display: block;
-}
-
-
 #wrapper {
   background: #222222;
   width: 990px;
@@ -31,8 +28,14 @@ div {
   box-shadow: #FE9A2E;
 }
 
+a {
+  float:right;
+  margin:0 20px 10px 0; 
+}
+
 .head img {
   float: left;
+  display: inline;
   height: 400px;
   width: 450px;
   border-radius: 10px 10px 10px 10px;
